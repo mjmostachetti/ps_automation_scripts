@@ -1,0 +1,15 @@
+We need 
+2 Batch Edits
+1)Check photos are right size, if not, resize till width x height at least 3500 x 5000
+2)Resize Canvas to 1750 x 2500
+
+The Document class is used to make modifications to the document image. By using the Document object
+you can crop, rotate or flip the canvas, resize the image or canvas, and trim the image. You could also use
+the Document object to get the active layer, then, save the current document, and copy and paste within
+the active document or between different documents. For more information on using document objects,
+see “Creating New Objects in a Script” on page 23 and “Using the Document object” on page 34.
+
+Make Pairings Script
+1)
+
+Get external script to run this script
