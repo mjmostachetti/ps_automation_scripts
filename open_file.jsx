@@ -30,5 +30,7 @@ if(1 > x > y){
 	app.activeDocument.resizeCanvas()
 	//crop and save
 }
+//save
+app.activeDocument.save()
 //close and next iteration
 app.activeDocument.close()
